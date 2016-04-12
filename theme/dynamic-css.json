@@ -1,0 +1,19 @@
+{
+	"dynamicCSS":[ 
+    {
+    	"styleRef":"&lt;link href=\"css/flexslider.css\" rel=\"stylesheet\" type=\"text/css\" media=\"all\" /&gt;",
+      "requiredBy":".slider-all-controls, .slider-paging-conrols, .slider-arrow-controls, .slider-thumb-controls, .logo-carousel, .tweets-slider"
+    },
+    {
+      "styleRef":"&lt;link href=\"css/lightbox.min.css\" rel=\"stylesheet\" type=\"text/css\" media=\"all\" /&gt;",
+      "requiredBy":"[data-lightbox], .flickr-feed"
+    },
+    {
+      "styleRef":"&lt;link href=\"css/ytplayer.css\" rel=\"stylesheet\" type=\"text/css\" media=\"all\" /&gt;",
+      "requiredBy":".player"
+    }
+	]
+}
+
+       
+        
