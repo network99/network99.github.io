@@ -1,0 +1,40 @@
+{
+	"dynamicScripts":[ 
+        {
+            "scriptRef":"&lt;script src=\"js/flexslider.min.js\"&gt;&lt;/script&gt;",
+            "requiredBy":".slider-all-controls, .slider-paging-conrols, .slider-arrow-controls, .slider-thumb-controls, .logo-carousel, .tweets-slider"
+        },
+        {
+            "scriptRef":"&lt;script src=\"js/lightbox.min.js\"&gt;&lt;/script&gt;",
+            "requiredBy":"[data-lightbox]"
+        },
+        {
+            "scriptRef":"&lt;script src=\"js/masonry.min.js\"&gt;&lt;/script&gt;",
+            "requiredBy":".masonry"
+        },
+        {
+            "scriptRef":"&lt;script src=\"js/flickr.js\"&gt;&lt;/script&gt;",
+            "requiredBy":".flickr-feed"
+        },
+        {
+            "scriptRef":"&lt;script src=\"js/twitterfetcher.min.js\"&gt;&lt;/script&gt;",
+            "requiredBy":".tweets-feed"
+        },
+        {
+            "scriptRef":"&lt;script src=\"js/spectragram.min.js\"&gt;&lt;/script&gt;",
+            "requiredBy":".instafeed"
+        },
+        {
+            "scriptRef":"&lt;script src=\"js/ytplayer.min.js\"&gt;&lt;/script&gt;",
+            "requiredBy":".player"
+        },
+        {
+            "scriptRef":"&lt;script src=\"js/countdown.min.js\"&gt;&lt;/script&gt;",
+            "requiredBy":".countdown"
+        },
+        {
+            "scriptRef":"&lt;script src=\"js/smooth-scroll.min.js\"&gt;&lt;/script&gt;",
+            "requiredBy":".inner-link"
+        }
+	]
+}
